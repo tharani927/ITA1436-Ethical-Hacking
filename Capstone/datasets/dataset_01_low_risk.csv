@@ -1,0 +1,21 @@
+Record_ID,Email,Password,Source,Detection_Date,Status
+REC-LR-1001,elena.rostova@novanet.org,$2b$12$e8Yx9pL4m0nQ2v1AbCdEfGhIjKlMnOpQrStUvWxYz1234567890,TorForum-Encrypted-Dump,2026-11-10 09:36:55,Active Threat
+REC-LR-1002,david.kim@synthmail.com,$2b$10$N9qo8uLOickgx2ZMRZoMyeK89aP1oQ6m5v7z3abcdefghijklmn,TorForum-Encrypted-Dump,2026-11-10 17:36:55,Investigating
+REC-LR-1003,nathan.drake@apexcloud.io,"$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$abcdefghijklmnopqrstuvwxyz123456",SecurityFeed-Audit-Low,2026-11-11 01:36:55,Remediated
+REC-LR-1004,sara.connor@synthmail.com,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,SecurityFeed-Audit-Low,2026-11-11 09:36:55,Investigating
+REC-LR-1005,marcus.vance@novanet.org,$2b$12$K89aP1oQ6m5v7z3abcdefghijklmnopqrstuvwxyz0987654321,DarkNet-Archive-Safe,2026-11-11 17:36:55,Active Threat
+REC-LR-1006,clara.smith@apexcloud.io,"$argon2i$v=19$m=4096,t=3,p=1$c29tZXNhbHQ$1234567890abcdefghijklmnopqrstuv",DarkNet-Archive-Safe,2026-11-12 01:36:55,Remediated
+REC-LR-1007,julian.ross@synthmail.com,8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4,SecurityFeed-Audit-Low,2026-11-12 09:36:55,Investigating
+REC-LR-1008,sophie.turner@novanet.org,$2b$12$XyZ9876543210AbCdEfGhIjKlMnOpQrStUvWxYz1234567890,TorForum-Encrypted-Dump,2026-11-12 17:36:55,Remediated
+REC-LR-1009,brian.miller@apexcloud.io,$2b$10$AbCdEfGhIjKlMnOpQrStUvWxYz12345678901234567890abcdef,DarkNet-Archive-Safe,2026-11-13 01:36:55,Active Threat
+REC-LR-1010,hannah.wells@synthmail.com,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,SecurityFeed-Audit-Low,2026-11-13 09:36:55,Remediated
+REC-LR-1011,oliver.queen@novanet.org,"$argon2id$v=19$m=32768,t=4,p=2$c29tZXNhbHQ$abcdef1234567890abcdef1234567890",TorForum-Encrypted-Dump,2026-11-13 17:36:55,Active Threat
+REC-LR-1012,emily.blunt@apexcloud.io,$2b$12$Q1w2E3r4T5y6U7i8O9p0A1s2D3f4G5h6J7k8L9z0X1c2V3b4N5m6,DarkNet-Archive-Safe,2026-11-14 01:36:55,Investigating
+REC-LR-1013,lucas.scott@synthmail.com,dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f,SecurityFeed-Audit-Low,2026-11-14 09:36:55,Remediated
+REC-LR-1014,maya.lin@novanet.org,$2b$12$Z0x9C8v7B6n5M4l3K2j1H0g9F8d7S6a5P4o3I2u1Y0t9R8e7W6q5,TorForum-Encrypted-Dump,2026-11-14 17:36:55,Active Threat
+REC-LR-1015,kurt.warner@apexcloud.io,"$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$9876543210abcdef9876543210abcdef",DarkNet-Archive-Safe,2026-11-15 01:36:55,Investigating
+REC-LR-1016,tara.reid@synthmail.com,2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae,SecurityFeed-Audit-Low,2026-11-15 09:36:55,Remediated
+REC-LR-1017,gavin.stone@novanet.org,$2b$12$M1n2B3v4C5x6Z7a8S9d0F1g2H3j4K5l6P7o8I9u0Y1t2R3e4W5q6,TorForum-Encrypted-Dump,2026-11-15 17:36:55,Active Threat
+REC-LR-1018,chloe.bennet@apexcloud.io,$2b$10$L9k8J7h6G5f4D3s2A1z0X9c8V7b6N5m4Q3w2E1r0T9y8U7i6O5p4,DarkNet-Archive-Safe,2026-11-16 01:36:55,Investigating
+REC-LR-1019,victor.stone@synthmail.com,"$argon2i$v=19$m=4096,t=3,p=1$c29tZXNhbHQ$abcdefabcdef12345678901234567890",SecurityFeed-Audit-Low,2026-11-16 09:36:55,Remediated
+REC-LR-1020,natalie.dormer@novanet.org,fc8252c8dc55839967c58b9ad755a59b61b67c1326e479c6e93a1409528fde80,DarkNet-Archive-Safe,2026-11-16 17:36:55,Active Threat

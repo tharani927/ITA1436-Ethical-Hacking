@@ -1,0 +1,31 @@
+Record_ID,Email,Password,Source,Detection_Date,Status
+REC-DP-5001,clara.dup@novanet.org,Nov2026Password!,TorForum-Thread-DupScan-A,2026-11-15 09:36:55,Active Threat
+REC-DP-5002,marcus.dup@synthmail.com,5f4dcc3b5aa765d61d8327deb882cf99,TorForum-Thread-DupScan-A,2026-11-15 12:36:55,Active Threat
+REC-DP-5003,david.dup@apexcloud.io,$2b$12$e8Yx9pL4m0nQ2v1AbCdEfGhIjKlMnOpQrStUvWxYz1234567890,TorForum-Thread-DupScan-A,2026-11-15 15:36:55,Active Threat
+REC-DP-5004,admin.dup@corp-defense.internal,admin123,TorForum-Thread-DupScan-A,2026-11-15 18:36:55,Active Threat
+REC-DP-5005,root.dup@cloudinfra.corp,toor,TorForum-Thread-DupScan-A,2026-11-15 21:36:55,Active Threat
+REC-DP-5006,rachel.dup@synthmail.com,7c4a8d09ca3762af61e59520943dc26494f8941b,TorForum-Thread-DupScan-A,2026-11-16 00:36:55,Active Threat
+REC-DP-5007,brian.dup@novanet.org,Winter2025$,TorForum-Thread-DupScan-A,2026-11-16 03:36:55,Active Threat
+REC-DP-5008,sophie.dup@apexcloud.io,"$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$abcdefghijklmnopqrstuvwxyz123456",TorForum-Thread-DupScan-A,2026-11-16 06:36:55,Active Threat
+REC-DP-5009,devops.dup@matrix-defense.gov.fake,password,TorForum-Thread-DupScan-A,2026-11-16 09:36:55,Active Threat
+REC-DP-5010,ciso.dup@secure-bank.internal,P@ssw0rd2026!,TorForum-Thread-DupScan-A,2026-11-16 12:36:55,Active Threat
+REC-DP-5011,julian.dup@synthmail.com,356a192b7913b04c54574d18c28d46e6395428ab,TorForum-Thread-DupScan-A,2026-11-16 15:36:55,Active Threat
+REC-DP-5012,emily.dup@novanet.org,welcome123,TorForum-Thread-DupScan-A,2026-11-16 18:36:55,Active Threat
+REC-DP-5013,clara.dup@novanet.org,Nov2026Password!,Pastebin-Exfil-Snippet-B,2026-11-16 21:36:55,Investigating
+REC-DP-5014,marcus.dup@synthmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Pastebin-Exfil-Snippet-B,2026-11-17 00:36:55,Investigating
+REC-DP-5015,david.dup@apexcloud.io,$2b$12$e8Yx9pL4m0nQ2v1AbCdEfGhIjKlMnOpQrStUvWxYz1234567890,Pastebin-Exfil-Snippet-B,2026-11-17 03:36:55,Investigating
+REC-DP-5016,admin.dup@corp-defense.internal,admin123,Pastebin-Exfil-Snippet-B,2026-11-17 06:36:55,Investigating
+REC-DP-5017,root.dup@cloudinfra.corp,toor,Pastebin-Exfil-Snippet-B,2026-11-17 09:36:55,Investigating
+REC-DP-5018,rachel.dup@synthmail.com,7c4a8d09ca3762af61e59520943dc26494f8941b,Pastebin-Exfil-Snippet-B,2026-11-17 12:36:55,Investigating
+REC-DP-5019,brian.dup@novanet.org,Winter2025$,Pastebin-Exfil-Snippet-B,2026-11-17 15:36:55,Investigating
+REC-DP-5020,sophie.dup@apexcloud.io,"$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$abcdefghijklmnopqrstuvwxyz123456",Pastebin-Exfil-Snippet-B,2026-11-17 18:36:55,Investigating
+REC-DP-5021,devops.dup@matrix-defense.gov.fake,password,Pastebin-Exfil-Snippet-B,2026-11-17 21:36:55,Investigating
+REC-DP-5022,ciso.dup@secure-bank.internal,P@ssw0rd2026!,Pastebin-Exfil-Snippet-B,2026-11-18 00:36:55,Investigating
+REC-DP-5023,clara.dup@novanet.org,Nov2026Password!,Ransomware-Exfil-Recheck-C,2026-11-18 03:36:55,Remediated
+REC-DP-5024,marcus.dup@synthmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Ransomware-Exfil-Recheck-C,2026-11-18 06:36:55,Remediated
+REC-DP-5025,david.dup@apexcloud.io,$2b$12$e8Yx9pL4m0nQ2v1AbCdEfGhIjKlMnOpQrStUvWxYz1234567890,Ransomware-Exfil-Recheck-C,2026-11-18 09:36:55,Remediated
+REC-DP-5026,admin.dup@corp-defense.internal,admin123,Ransomware-Exfil-Recheck-C,2026-11-18 12:36:55,Remediated
+REC-DP-5027,root.dup@cloudinfra.corp,toor,Ransomware-Exfil-Recheck-C,2026-11-18 15:36:55,Remediated
+REC-DP-5028,rachel.dup@synthmail.com,7c4a8d09ca3762af61e59520943dc26494f8941b,Ransomware-Exfil-Recheck-C,2026-11-18 18:36:55,Remediated
+REC-DP-5029,brian.dup@novanet.org,Winter2025$,Ransomware-Exfil-Recheck-C,2026-11-18 21:36:55,Remediated
+REC-DP-5030,sophie.dup@apexcloud.io,"$argon2id$v=19$m=65536,t=3,p=4$c29tZXNhbHQ$abcdefghijklmnopqrstuvwxyz123456",Ransomware-Exfil-Recheck-C,2026-11-19 00:36:55,Remediated

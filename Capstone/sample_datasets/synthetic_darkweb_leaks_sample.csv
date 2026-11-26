@@ -1,0 +1,46 @@
+Record_ID,Email,Credential_Hash,Domain,Source,Detection_Date,Role_Risk,Status
+REC-1001,admin.security@defense-sys.internal,admin123,defense-sys.internal,TorForum-DarkThread-77,2026-11-08 21:29:22,High,Active Threat
+REC-1002,root.operator@apex-fintech.org,$2a$12$e8Yx9pL4m0nQ2v1...,apex-fintech.org,RansomDump-Simulated-Exfil,2026-11-09 03:29:22,High,Active Threat
+REC-1003,ciso.executive@omega-cloud.io,P@ssw0rd2026!,omega-cloud.io,Paste-Bin-ThreatFeed,2026-11-09 09:29:22,High,Active Threat
+REC-1004,devops.lead@synth-health.net,12345678,synth-health.net,DarkMarket-Synthetic-Broker,2026-11-09 15:29:22,High,Active Threat
+REC-1005,billing.finance@global-logistics.biz,finance2026,global-logistics.biz,BreachCompilation-v2.1-Simulated,2026-11-09 21:29:22,High,Active Threat
+REC-1006,db.master@matrix-infra.corp,$argon2id$v=19$m=65536...,matrix-infra.corp,Underground-IRC-Snippet,2026-11-10 03:29:22,High,Active Threat
+REC-1007,sysadmin.linux@synthmail.com,toor,synthmail.com,TorForum-DarkThread-77,2026-11-10 09:29:22,High,Active Threat
+REC-1008,j.watson@secure-bank.internal,5f4dcc3b5aa765d61d8327deb882cf99,secure-bank.internal,RansomDump-Simulated-Exfil,2026-11-10 15:29:22,Medium,Remediated
+REC-1009,clara.smith@cyberlabs.edu,7c4a8d09ca3762af61e59520943dc26494f8941b,cyberlabs.edu,Paste-Bin-ThreatFeed,2026-11-10 21:29:22,Medium,Investigating
+REC-1010,marcus.vance@agency.gov.fake,Spring2026#,agency.gov.fake,DarkMarket-Synthetic-Broker,2026-11-11 03:29:22,Medium,Remediated
+REC-1011,alex.turner@defense-sys.internal,welcome123,defense-sys.internal,BreachCompilation-v2.1-Simulated,2026-11-11 09:29:22,Medium,Investigating
+REC-1012,sara.connor@apex-fintech.org,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,apex-fintech.org,Underground-IRC-Snippet,2026-11-11 15:29:22,Low,Remediated
+REC-1013,elena.rostova@omega-cloud.io,$2b$10$N9qo8uLOickgx2ZMRZoMye...,omega-cloud.io,TorForum-DarkThread-77,2026-11-11 21:29:22,Low,Investigating
+REC-1014,david.kim@synth-health.net,$2b$12$K89aP1oQ6m5v7z3...,synth-health.net,RansomDump-Simulated-Exfil,2026-11-12 03:29:22,Low,Remediated
+REC-1015,nathan.drake@global-logistics.biz,"$argon2i$v=19$m=4096,t=3,p=1...",global-logistics.biz,Paste-Bin-ThreatFeed,2026-11-12 09:29:22,Low,Investigating
+REC-1016,user.guest99@matrix-infra.corp,Guest#98721_Safe,matrix-infra.corp,DarkMarket-Synthetic-Broker,2026-11-12 15:29:22,Low,Remediated
+REC-1017,admin.security@synthmail.com,admin123,synthmail.com,BreachCompilation-v2.1-Simulated,2026-11-12 21:29:22,High,Active Threat
+REC-1018,root.operator@secure-bank.internal,$2a$12$e8Yx9pL4m0nQ2v1...,secure-bank.internal,Underground-IRC-Snippet,2026-11-13 03:29:22,High,Active Threat
+REC-1019,ciso.executive@cyberlabs.edu,P@ssw0rd2026!,cyberlabs.edu,TorForum-DarkThread-77,2026-11-13 09:29:22,High,Active Threat
+REC-1020,devops.lead@agency.gov.fake,12345678,agency.gov.fake,RansomDump-Simulated-Exfil,2026-11-13 15:29:22,High,Active Threat
+REC-1021,billing.finance@defense-sys.internal,finance2026,defense-sys.internal,Paste-Bin-ThreatFeed,2026-11-13 21:29:22,High,Active Threat
+REC-1022,db.master@apex-fintech.org,$argon2id$v=19$m=65536...,apex-fintech.org,DarkMarket-Synthetic-Broker,2026-11-14 03:29:22,High,Active Threat
+REC-1023,sysadmin.linux@omega-cloud.io,toor,omega-cloud.io,BreachCompilation-v2.1-Simulated,2026-11-14 09:29:22,High,Active Threat
+REC-1024,j.watson@synth-health.net,5f4dcc3b5aa765d61d8327deb882cf99,synth-health.net,Underground-IRC-Snippet,2026-11-14 15:29:22,Medium,Remediated
+REC-1025,clara.smith@global-logistics.biz,7c4a8d09ca3762af61e59520943dc26494f8941b,global-logistics.biz,TorForum-DarkThread-77,2026-11-14 21:29:22,Medium,Investigating
+REC-1026,marcus.vance@matrix-infra.corp,Spring2026#,matrix-infra.corp,RansomDump-Simulated-Exfil,2026-11-15 03:29:22,Medium,Remediated
+REC-1027,alex.turner@synthmail.com,welcome123,synthmail.com,Paste-Bin-ThreatFeed,2026-11-15 09:29:22,Medium,Investigating
+REC-1028,sara.connor@secure-bank.internal,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,secure-bank.internal,DarkMarket-Synthetic-Broker,2026-11-15 15:29:22,Low,Remediated
+REC-1029,elena.rostova@cyberlabs.edu,$2b$10$N9qo8uLOickgx2ZMRZoMye...,cyberlabs.edu,BreachCompilation-v2.1-Simulated,2026-11-15 21:29:22,Low,Investigating
+REC-1030,david.kim@agency.gov.fake,$2b$12$K89aP1oQ6m5v7z3...,agency.gov.fake,Underground-IRC-Snippet,2026-11-16 03:29:22,Low,Remediated
+REC-1031,nathan.drake@defense-sys.internal,"$argon2i$v=19$m=4096,t=3,p=1...",defense-sys.internal,TorForum-DarkThread-77,2026-11-16 09:29:22,Low,Investigating
+REC-1032,user.guest99@apex-fintech.org,Guest#98721_Safe,apex-fintech.org,RansomDump-Simulated-Exfil,2026-11-16 15:29:22,Low,Remediated
+REC-1033,admin.security@omega-cloud.io,admin123,omega-cloud.io,Paste-Bin-ThreatFeed,2026-11-16 21:29:22,High,Active Threat
+REC-1034,root.operator@synth-health.net,$2a$12$e8Yx9pL4m0nQ2v1...,synth-health.net,DarkMarket-Synthetic-Broker,2026-11-17 03:29:22,High,Active Threat
+REC-1035,ciso.executive@global-logistics.biz,P@ssw0rd2026!,global-logistics.biz,BreachCompilation-v2.1-Simulated,2026-11-17 09:29:22,High,Active Threat
+REC-1036,devops.lead@matrix-infra.corp,12345678,matrix-infra.corp,Underground-IRC-Snippet,2026-11-17 15:29:22,High,Active Threat
+REC-1037,billing.finance@synthmail.com,finance2026,synthmail.com,TorForum-DarkThread-77,2026-11-17 21:29:22,High,Active Threat
+REC-1038,db.master@secure-bank.internal,$argon2id$v=19$m=65536...,secure-bank.internal,RansomDump-Simulated-Exfil,2026-11-18 03:29:22,High,Active Threat
+REC-1039,sysadmin.linux@cyberlabs.edu,toor,cyberlabs.edu,Paste-Bin-ThreatFeed,2026-11-18 09:29:22,High,Active Threat
+REC-1040,j.watson@agency.gov.fake,5f4dcc3b5aa765d61d8327deb882cf99,agency.gov.fake,DarkMarket-Synthetic-Broker,2026-11-18 15:29:22,Medium,Remediated
+REC-1041,clara.smith@defense-sys.internal,7c4a8d09ca3762af61e59520943dc26494f8941b,defense-sys.internal,BreachCompilation-v2.1-Simulated,2026-11-18 21:29:22,Medium,Investigating
+REC-1042,marcus.vance@apex-fintech.org,Spring2026#,apex-fintech.org,Underground-IRC-Snippet,2026-11-19 03:29:22,Medium,Remediated
+REC-1043,alex.turner@omega-cloud.io,welcome123,omega-cloud.io,TorForum-DarkThread-77,2026-11-19 09:29:22,Medium,Investigating
+REC-1044,sara.connor@synth-health.net,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,synth-health.net,RansomDump-Simulated-Exfil,2026-11-19 15:29:22,Low,Remediated
+REC-1045,elena.rostova@global-logistics.biz,$2b$10$N9qo8uLOickgx2ZMRZoMye...,global-logistics.biz,Paste-Bin-ThreatFeed,2026-11-19 21:29:22,Low,Investigating

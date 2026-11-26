@@ -1,0 +1,31 @@
+Record_ID,Email,Password,Source,Detection_Date,Status
+REC-MR-2001,j.watson@synthmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Underground-Paste-Sim,2026-11-05 09:36:55,Active Threat
+REC-MR-2002,clara.smith@novanet.org,7c4a8d09ca3762af61e59520943dc26494f8941b,Underground-Paste-Sim,2026-11-05 15:36:55,Investigating
+REC-MR-2003,marcus.vance@apexcloud.io,Spring2026#,ThreatFeed-Public-Paste,2026-11-05 21:36:55,Active Threat
+REC-MR-2004,alex.turner@synthmail.com,welcome123,ThreatFeed-Public-Paste,2026-11-06 03:36:55,Active Threat
+REC-MR-2005,rachel.green@novanet.org,098f6bcd4621d373cade4e832627b4f6,Underground-Paste-Sim,2026-11-06 09:36:55,Investigating
+REC-MR-2006,ross.geller@synthmail.com,Winter2025$,ThreatFeed-Public-Paste,2026-11-06 15:36:55,Remediated
+REC-MR-2007,monica.geller@apexcloud.io,Chef2026!Bonus,Underground-Paste-Sim,2026-11-06 21:36:55,Active Threat
+REC-MR-2008,chandler.bing@novanet.org,ad0234829205b9033196ba818f7a872b,Underground-Paste-Sim,2026-11-07 03:36:55,Investigating
+REC-MR-2009,phoebe.buffay@synthmail.com,GuitarSmellyCat#9,ThreatFeed-Public-Paste,2026-11-07 09:36:55,Remediated
+REC-MR-2010,joey.tribbiani@novanet.org,football2025,ThreatFeed-Public-Paste,2026-11-07 15:36:55,Active Threat
+REC-MR-2011,harvey.specter@apexcloud.io,356a192b7913b04c54574d18c28d46e6395428ab,Underground-Paste-Sim,2026-11-07 21:36:55,Active Threat
+REC-MR-2012,mike.ross@synthmail.com,PearsonHardman2026,ThreatFeed-Public-Paste,2026-11-08 03:36:55,Investigating
+REC-MR-2013,donna.paulsen@novanet.org,Secretary#1Awesome,Underground-Paste-Sim,2026-11-08 09:36:55,Remediated
+REC-MR-2014,louis.litt@synthmail.com,LittUp2026!Mud,ThreatFeed-Public-Paste,2026-11-08 15:36:55,Active Threat
+REC-MR-2015,rachel.zane@apexcloud.io,1f8ac10f23c5b5bc1167bda84b833e5c057a77d2,Underground-Paste-Sim,2026-11-08 21:36:55,Investigating
+REC-MR-2016,bruce.wayne@novanet.org,GothamKnight2026,ThreatFeed-Public-Paste,2026-11-09 03:36:55,Active Threat
+REC-MR-2017,clark.kent@synthmail.com,DailyPlanet#99,Underground-Paste-Sim,2026-11-09 09:36:55,Remediated
+REC-MR-2018,diana.prince@apexcloud.io,Themyscira_2026,ThreatFeed-Public-Paste,2026-11-09 15:36:55,Active Threat
+REC-MR-2019,barry.allen@novanet.org,FastestManAlive#1,Underground-Paste-Sim,2026-11-09 21:36:55,Investigating
+REC-MR-2020,arthur.curry@synthmail.com,25d55ad283aa400af464c76d713c07ad,ThreatFeed-Public-Paste,2026-11-10 03:36:55,Active Threat
+REC-MR-2021,hal.jordan@apexcloud.io,GreenLantern2026!,Underground-Paste-Sim,2026-11-10 09:36:55,Remediated
+REC-MR-2022,john.stewart@novanet.org,8cb2237d0679ca88db6464eac60da96345513964,ThreatFeed-Public-Paste,2026-11-10 15:36:55,Active Threat
+REC-MR-2023,victor.stone@synthmail.com,CyborgTech#2026,Underground-Paste-Sim,2026-11-10 21:36:55,Investigating
+REC-MR-2024,billy.batson@apexcloud.io,ShazamWisdom99!,ThreatFeed-Public-Paste,2026-11-11 03:36:55,Active Threat
+REC-MR-2025,stephen.strange@novanet.org,SanctumSanctorum!,Underground-Paste-Sim,2026-11-11 09:36:55,Remediated
+REC-MR-2026,tony.stark@synthmail.com,bb6a0e0546110f0e0c8b326079c8d5c8,ThreatFeed-Public-Paste,2026-11-11 15:36:55,Active Threat
+REC-MR-2027,steve.rogers@apexcloud.io,CaptainAmerica1945,Underground-Paste-Sim,2026-11-11 21:36:55,Investigating
+REC-MR-2028,natasha.romanoff@novanet.org,RedRoom_Avenger26,ThreatFeed-Public-Paste,2026-11-12 03:36:55,Active Threat
+REC-MR-2029,clint.barton@synthmail.com,c4ca4238a0b923820dcc509a6f75849b,Underground-Paste-Sim,2026-11-12 09:36:55,Remediated
+REC-MR-2030,thor.odinson@apexcloud.io,AsgardMjolnir2026,ThreatFeed-Public-Paste,2026-11-12 15:36:55,Active Threat

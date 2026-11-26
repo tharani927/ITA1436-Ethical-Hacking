@@ -1,0 +1,11 @@
+{
+  "name": "darkwatch-frontend",
+  "version": "1.0.0",
+  "description": "Frontend UI for DarkWatch Leaked Credential Intelligence System",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Ethical Threat Research Capstone",
+  "license": "MIT"
+}
